@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Homestore</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="thumb_content_desc">Medium size thumb of trending item</string>
+    <string name="tools_text_test">Dummy Text </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="add_to_cart">ADD TO CART</string>
+
+    <string name="filter_prompt">Filter / Sort</string>
+
+    <string-array name="filter_array">
+        <item>FILTER/SORT</item>
+        <item>Name</item>
+        <item>Price</item>
+        <item>Customer Review</item>
+        <!--add more filter option here-->
+    </string-array>
+    <string name="connection_issue">Connection unavailable!</string>
+    <string name="server_connectivity_issue">Service Unavailable! Try after some time</string>
+</resources>
